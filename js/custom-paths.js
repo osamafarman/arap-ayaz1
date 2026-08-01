@@ -8,7 +8,7 @@
    ⚠ KURAL: İçeriği, yöneticinin AÇIK ONAYI olmadan değiştirilmez.
    Müfredat/veri güncellemeleri bu yolları ETKİLEMEZ.
 
-   Üretim zamanı : 2026-08-01 20:10:00
+   Üretim zamanı : 2026-08-01 20:30:58
    Yol sayısı    : 11
    Yazı tipi izi : 102-142-149
    ========================================================================= */
@@ -31,7 +31,7 @@
   };
 
   AH.customPathsMeta = {
-    savedAt: "2026-08-01 20:10:00",
+    savedAt: "2026-08-01 20:30:58",
     count: 11
   };
 })();
